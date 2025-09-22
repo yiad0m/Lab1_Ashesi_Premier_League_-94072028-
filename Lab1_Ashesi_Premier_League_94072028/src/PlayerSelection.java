@@ -50,7 +50,7 @@ public class PlayerSelection {
 
         case 7,11:
         position = "Winger";
-        attackerJersey = "No";
+        attackerJersey = "Yes";
         break;
 
         case 9:
